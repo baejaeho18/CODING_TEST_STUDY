@@ -7,6 +7,7 @@
 | 01 | DFS | 깊이 우선 탐색 | [바로가기](./dfs) |
 | 02 | BFS | 너비 우선 탐색 | [바로가기](./bfs) |
 | 03 | Math | 수학 | [바로가기](./math) |
+| 04 | Binary Tree | 이진트리 | [바로가기](./binary_tree) | 
 
 
 [Backtracking]: ./backtracking
