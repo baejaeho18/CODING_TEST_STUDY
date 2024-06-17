@@ -1,0 +1,4 @@
+|          순번          |        문제 이름         |        나의 풀이         |         난이도          |        풀이 링크         |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| 01 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368" target="_blank">이모티콘 할인행사</a> | <a href="./brute_force/emoticion_sales">풀이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368/solution_groups?language=java" target="_black">정답</a> |
+| 02 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343" target="_blank">양과 늑대</a> | <a href="./dfs/sheep_and_wolf">풀이</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343/solution_groups?language=java" target="_black">정답</a> |

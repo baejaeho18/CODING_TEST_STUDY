@@ -4,10 +4,8 @@
 | 순번 | Tag                          | 태그                | 문제집    |
 | :--: | :--------------------------: | :-----------------: | :------:  |
 | 00 | Data Structure | 자료구조 | [바로가기](./data_structure) |
-| 01 | DFS | 깊이 우선 탐색 | [바로가기](./dfs) |
-| 02 | BFS | 너비 우선 탐색 | [바로가기](./bfs) |
-| 03 | Math | 수학 | [바로가기](./math) |
-| 04 | Binary Tree | 이진트리 | [바로가기](./binary_tree) | 
+| 01 | Math | 수학 | [바로가기](./math) |
+| 02 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) |
 
 
 [Backtracking]: ./backtracking
