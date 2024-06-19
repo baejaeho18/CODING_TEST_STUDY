@@ -7,6 +7,7 @@
 | 01 | Math | 수학 | [바로가기](./math) |
 | 02 | Graph Traversal | 그래프 탐색 | [바로가기](./graph_traversal) |
 | 03 | Dijkstra | 다익스트라 | [바로가기](./dijkstra) |
+| 04 | Sort | 정렬 | [바로가기](./sort) |
 
 [Backtracking]: ./backtracking
 [Binary Search]: ./binary_search
